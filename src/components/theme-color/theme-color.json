@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_theme_color_theme_colors",
+  "info": {
+    "displayName": "ThemeColor",
+    "icon": "paint",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "color": {
+      "type": "string",
+      "default": "themeColor",
+      "regex": "themecolor"
+    }
+  }
+}
